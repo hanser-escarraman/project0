@@ -1,0 +1,12 @@
+%contenidos{
+margin: 10px;
+border: 1px solid #000;
+color: blue;
+
+}
+
+#parrafos{
+@extend %contenidos;
+
+
+}
